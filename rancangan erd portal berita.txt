@@ -1,0 +1,11 @@
+
+- pengguna bisa melihat berita, pilih kategori berita, login member, daftar member.
+- pengguna bisa memberikan komentar setelah baca berita.
+- admin dapat membuat berita menambahkan kategori atau judul berita
+- admin dapat menghapus berita
+- admin dapat membuat iklan atau merubah iklan 
+
+admin dapat membuat berita, berita mempunyai beberapa kategori, berita mempunyai form komentar, anggota bisa mengisi form komentar.
+ 
+entitas : admin, berita, kategori, komentar, anggota.
+relasi : membuat, mempunyai, mempunyai, mengisi.
